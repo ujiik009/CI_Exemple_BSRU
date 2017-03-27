@@ -1,1 +1,5 @@
-"# CI_Exemple_BSRU" 
+# CI_Exemple_BSRU
+
+---
+
+# Example
